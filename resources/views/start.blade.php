@@ -69,6 +69,7 @@
     <body>
 <div class="container">
     <div class="row">
+        <h1>Larafacil  =  Laravel  + Pagofacil</h1>
      <h2>Forma de compra </h2>
     <div class="col-xs-12 well">
         <form action="/process" method="POST">

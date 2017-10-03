@@ -87,22 +87,22 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Id de compra :  {{$arregloFirmado['ct_order_id']}}</a>
+                    <a href="#">Id de compra : {{$arregloFirmado['ct_order_id']}}</a>
                 </div>
                  <div class="links">
-                    <a href="https://laravel.com/docs">Valor:{{$arregloFirmado['ct_monto']}}</a>
+                    <a href="#">Valor:{{$arregloFirmado['ct_monto']}}</a>
                 </div>
                  <div class="links">
-                    <a href="https://laravel.com/docs">Nro de cuotas: {{$arregloFirmado['ct_shares_number']}}</a>
+                    <a href="#">Nro de cuotas: {{$arregloFirmado['ct_shares_number']}}</a>
                 </div>
             
                 
                 <div class="links">
-                    <a href="https://laravel.com/docs" >Fecha de transacción: <span>{{$arregloFirmado['ct_transaction_date']}}</span></a>
+                    <a href="#" >Fecha de transacción: <span>{{$arregloFirmado['ct_transaction_date']}}</span></a>
                 </div>
 
                  <div class="links">
-                    <a href="https://laravel.com/docs" style="color:green">Estado: {{$arregloFirmado['ct_estado']}}</a>
+                    <a href="#" style="color:green">Estado: {{$arregloFirmado['ct_estado']}}</a>
                 </div>
 
                 <hr>

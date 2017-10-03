@@ -51,8 +51,12 @@ class pagofacil extends Controller
 
     }
 
+    //Paso 2
+
      public function callback(Request $request)
     {
+
+
 
         $token_secret = env('PAGOFACIL_TOKEN_SECRET');
 
@@ -149,9 +153,16 @@ class pagofacil extends Controller
 
     }
 
+    // Paso 3
+
      public function end(Request $request)
     {
         //
+
+
+       /* $input = $request->all();
+
+        dd($input);*/
 
        $token_secret = env('PAGOFACIL_TOKEN_SECRET');
 
@@ -233,6 +244,7 @@ class pagofacil extends Controller
            $order= order::where('order_id',$ct_order_id)->first();
            $order->status = $arregloFirmado["ct_estado"];
            $order->save();
+
 
 
             return view('completed', compact('arregloFirmado'));
