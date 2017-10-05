@@ -68,6 +68,12 @@
 </head>
 <body>
 <div class="container">
+
+    <div class="alert alert-success" role="alert" style="margin-top: 20px;">
+      <h3>Los datos de prueba de las tarjetas de crédito/debido los puedes encontrar en el siguiente link:</h3>
+        <a target="_blank" href="http://wiki.cristiantala.cl/doku.php?id=datos_para_realizar_las_certificaciones_de_transbank">http://wiki.cristiantala.cl/doku.php?id=datos_para_realizar_las_certificaciones_de_transbank</a>
+    </div>
+
     <div class="row">
         <h2> Los datos de la transaccion a procesar son: </h2>
         <div class="col-xs-12 well">

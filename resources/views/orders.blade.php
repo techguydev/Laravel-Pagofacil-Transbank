@@ -78,6 +78,8 @@ font-weight: bolder;
     <body>
 
             <div class="container">
+
+
                       <h2>INFORMACION DE LAS ORDENES PROCESADAS</h2>
                       <p>Detalle de las transacciones realizadas</p>            
                                   <table class="table table-hover">
@@ -102,6 +104,12 @@ font-weight: bolder;
                                          @endforeach
                                         </tbody>
                                   </table>
+
+                <div class="row">
+
+                    <h2>Registrate en Pagofacil: <a href="https://goo.gl/7YQ9AN">https://goo.gl/7YQ9AN </a> </h2>
+
+                </div>
             </div>
 
     </body>

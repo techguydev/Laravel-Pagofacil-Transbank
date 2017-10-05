@@ -69,8 +69,14 @@
     <body>
 <div class="container">
     <div class="row">
+        <img style="width: 200px;" src="http://programacion.net/files/article/20151030111039_laravel-logo-white.png">
+
+        <img style="width: 200px;" src="https://i2.wp.com/www.pagofacil.org/wp-content/uploads/2017/04/logo.png?zoom=2&fit=226%2C90&ssl=1">
+
         <h1>Larafacil  =  Laravel  + Pagofacil</h1>
-     <h2>Forma de compra </h2>
+        <h2>Registrate en Pagofacil: <a href="https://goo.gl/7YQ9AN">https://goo.gl/7YQ9AN </a> </h2>
+
+        <h2>Forma de compra </h2>
     <div class="col-xs-12 well">
         <form action="/process" method="POST">
             {{ csrf_field() }}
