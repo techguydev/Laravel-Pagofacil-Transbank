@@ -72,8 +72,9 @@
 
 
  <div class="flex-center position-ref full-height">
-         
-            <div class="content">
+     <div class="row">
+
+     <div class="content">
 
             <i style="font-size: 100px; color: green" class="fa fa-check" aria-hidden="true"></i>
 
@@ -114,7 +115,10 @@
 
             </div>
 
-     <div class="row">
+ </div>
+
+
+ <div class="row">
 
          <h2>Registrate en Pagofacil: <a href="https://goo.gl/7YQ9AN">https://goo.gl/7YQ9AN </a> </h2>
 
