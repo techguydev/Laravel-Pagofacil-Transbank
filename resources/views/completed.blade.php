@@ -71,7 +71,7 @@
     <body>
 
 
- <div class="flex-center position-ref full-height">
+ <div>
      <div class="row">
 
      <div class="content">
@@ -118,11 +118,13 @@
  </div>
 
 
- <div class="row">
+    <div class="row" style="text-align: center;"">
 
          <h2>Registrate en Pagofacil: <a href="https://goo.gl/7YQ9AN">https://goo.gl/7YQ9AN </a> </h2>
 
      </div>
+
+     <br>
 
 
      <div class="row" style="text-align: center">
