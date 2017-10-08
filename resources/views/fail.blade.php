@@ -107,6 +107,14 @@
          <h2>Registrate en Pagofacil: <a href="https://goo.gl/7YQ9AN">https://goo.gl/7YQ9AN </a> </h2>
 
      </div>
+
+     <div class="row" style="text-align: center">
+
+         <a href="https://www.vultr.com/?ref=7224781"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
+
+     </div>
+
+
         </div>
     </body>
 </html>
